@@ -1,0 +1,13 @@
+D1,D2 SMAJ18CA-TR
+R15,R16 now 10K
+CN1 DNF
+R39 Speed pot DNF
+MOSFETS DNF
+P2 DNF - serial connector
+SW2 Modeswitch DNF
+P8 LCD header DNF
+R1,R2,R3 LCD resistors DNF
+R47,R48,R49 now 4K7 ( old LED resistors )
+Barrier block terminal DNF
+
+
