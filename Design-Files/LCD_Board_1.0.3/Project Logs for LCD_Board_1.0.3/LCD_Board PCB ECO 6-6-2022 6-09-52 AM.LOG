@@ -1,0 +1,62 @@
+Added Component: Designator=P1(X6511WV-16H-C30D60)
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XKB Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Added Component: Designator=P2(B-2100S08P-B110)
+Add component (AddParameter): Name = "Insulation Height"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length of End Connection Pin"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length of Mating Pin"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ckmtw(Shenzhen Cankemeng)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-40?~+105?"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PIN1 Pin=P1-1
+Added Pin To Net: NetName=PIN1 Pin=P2-1
+Added Net: Name=PIN1
+Added Pin To Net: NetName=PIN2 Pin=P1-2
+Added Pin To Net: NetName=PIN2 Pin=P2-2
+Added Net: Name=PIN2
+Added Pin To Net: NetName=PIN3 Pin=P1-3
+Added Pin To Net: NetName=PIN3 Pin=P2-3
+Added Net: Name=PIN3
+Added Pin To Net: NetName=PIN4 Pin=P1-4
+Added Pin To Net: NetName=PIN4 Pin=P2-4
+Added Net: Name=PIN4
+Added Pin To Net: NetName=PIN5 Pin=P1-5
+Added Pin To Net: NetName=PIN5 Pin=P2-5
+Added Net: Name=PIN5
+Added Pin To Net: NetName=PIN6 Pin=P1-6
+Added Pin To Net: NetName=PIN6 Pin=P2-6
+Added Net: Name=PIN6
+Added Pin To Net: NetName=PIN7 Pin=P1-7
+Added Pin To Net: NetName=PIN7 Pin=P2-7
+Added Net: Name=PIN7
+Added Pin To Net: NetName=PIN8 Pin=P1-8
+Added Pin To Net: NetName=PIN8 Pin=P2-8
+Added Net: Name=PIN8
+Added Pin To Net: NetName=PIN9 Pin=P1-9
+Added Pin To Net: NetName=PIN9 Pin=P2-9
+Added Net: Name=PIN9
+Added Pin To Net: NetName=PIN10 Pin=P1-10
+Added Pin To Net: NetName=PIN10 Pin=P2-10
+Added Net: Name=PIN10
+Added Pin To Net: NetName=PIN11 Pin=P1-11
+Added Pin To Net: NetName=PIN11 Pin=P2-11
+Added Net: Name=PIN11
+Added Pin To Net: NetName=PIN12 Pin=P1-12
+Added Pin To Net: NetName=PIN12 Pin=P2-12
+Added Net: Name=PIN12
+Added Pin To Net: NetName=PIN13 Pin=P1-13
+Added Pin To Net: NetName=PIN13 Pin=P2-13
+Added Net: Name=PIN13
+Added Pin To Net: NetName=PIN14 Pin=P1-14
+Added Pin To Net: NetName=PIN14 Pin=P2-14
+Added Net: Name=PIN14
+Added Pin To Net: NetName=PIN15 Pin=P1-15
+Added Pin To Net: NetName=PIN15 Pin=P2-15
+Added Net: Name=PIN15
+Added Pin To Net: NetName=PIN16 Pin=P1-16
+Added Pin To Net: NetName=PIN16 Pin=P2-16
+Added Net: Name=PIN16
+Added Class: Name=LCD_Connectors
