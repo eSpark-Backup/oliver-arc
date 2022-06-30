@@ -1,5 +1,6 @@
-Record=TopLevelDocument|FileName=Connector_Section.SchDoc|SheetNumber=4
+Record=TopLevelDocument|FileName=Connector_Section.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=Connector_Section.SchDoc|FileName=Controller_Section.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Connector_Section.SchDoc|FileName=Motor_Driver_Section.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Connector_Section.SchDoc|FileName=Current_Sense_Section.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Connector_Section.SchDoc|FileName=Motor_Driver_Section.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=Connector_Section.SchDoc|FileName=Power_Section.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=Connector_Section.SchDoc|FileName=Top_Sheet.SchDoc|SheetNumber=1
