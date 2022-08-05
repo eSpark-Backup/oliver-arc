@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Added Component: Designator=J2(HDR1X5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Pin-Headers_XFCN-PZ254V-11-05P_C492404.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XFCN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PZ254V-11-05P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_3V3 Pin=J2-1
+Added Pin To Net: NetName=TXD Pin=J2-2
+Added Pin To Net: NetName=RXD Pin=J2-3
+Added Pin To Net: NetName=RESET# Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Member To Class: ClassName=Transmitter_Section Member=Component J2 PZ254V-11-05P
