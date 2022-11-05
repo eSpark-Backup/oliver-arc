@@ -250,6 +250,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BJEWAXHC
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ARC_1.0.5\Design Rule Check - PCB_ARC_1.0.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

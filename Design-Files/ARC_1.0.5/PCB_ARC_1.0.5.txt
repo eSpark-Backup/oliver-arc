@@ -1,29 +1,29 @@
 Board Information Report
 Filename     : C:\Users\XPENDER\Documents\GitHub\Oliver-ARC\Design-Files\ARC_1.0.5\PCB_ARC_1.0.5.PcbDoc
-Date         : 11/5/2022
-Time         : 6:14:11 PM
-Time Elapsed : 00:00:01
+Date         : 11/6/2022
+Time         : 12:01:55 AM
+Time Elapsed : 00:00:05
 
 General
-    Board Size, 3621milsx2943mils
+    Board Size, 3621milsx2945mils
     Components on board, 201
 count : 2
 
 Routing Information
-    Routing completion, 98.13%
+    Routing completion, 100.00%
     Connections, 428
-    Connections routed, 420
-    Connections remaining, 8
+    Connections routed, 428
+    Connections remaining, 0
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 0, 388, 0, 706, 0, 70, 0, 0
-    Bottom Layer, 0, 132, 0, 517, 0, 25, 0, 0
+    Top Layer, 559, 388, 0, 6313, 0, 78, 0, 0
+    Bottom Layer, 466, 132, 0, 4562, 0, 29, 1, 0
     Draft and Dimensions, 0, 0, 0, 16, 2, 0, 0, 158
     Board Dimension, 0, 0, 0, 4, 0, 0, 0, 0
     Fabrication, 0, 0, 0, 0, 0, 0, 0, 0
     Mechanical 13, 0, 0, 0, 0, 0, 0, 0, 1
-    Multi-Layer, 0, 62, 176, 0, 0, 0, 1, 0
+    Multi-Layer, 0, 62, 192, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
     Top Overlay, 25, 0, 0, 712, 300, 31, 0, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
@@ -36,11 +36,12 @@ Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
 count : 16
 
 Drill Pairs, Vias
-count : 0
+    Top Layer - Bottom Layer, 1
+count : 1
 
 Layer, Sq.In., Sq.MM., Percent of layer
-    Top Layer, 4.631, 2987.869, 43%
-    Bottom Layer, 3.02, 1948.183, 28%
+    Top Layer, 7.808, 5037.248, 73%
+    Bottom Layer, 6.373, 4111.825, 60%
 count : 2
 
 Non-Plated Hole Size, Pads, Vias
@@ -49,7 +50,7 @@ count : 1
 
 Plated Hole Size, Pads, Vias
     0mils, 0, 0
-    11.811mils, 0, 0
+    11.811mils, 0, 1
     35.433mils, 0, 0
     39.37mils, 0, 0
     40.158mils, 0, 0
