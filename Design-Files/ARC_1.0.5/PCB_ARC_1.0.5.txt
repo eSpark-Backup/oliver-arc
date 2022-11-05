@@ -1,34 +1,34 @@
 Board Information Report
 Filename     : C:\Users\XPENDER\Documents\GitHub\Oliver-ARC\Design-Files\ARC_1.0.5\PCB_ARC_1.0.5.PcbDoc
-Date         : 11/4/2022
-Time         : 11:19:15 PM
-Time Elapsed : 00:00:00
+Date         : 11/5/2022
+Time         : 12:58:26 PM
+Time Elapsed : 00:00:01
 
 General
-    Board Size, 3605milsx2939mils
+    Board Size, 3621milsx2939mils
     Components on board, 201
 count : 2
 
 Routing Information
-    Routing completion, 42.06%
+    Routing completion, 87.62%
     Connections, 428
-    Connections routed, 180
-    Connections remaining, 248
+    Connections routed, 375
+    Connections remaining, 53
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 0, 392, 0, 202, 0, 49, 0, 0
-    Bottom Layer, 0, 128, 0, 123, 0, 9, 0, 0
+    Top Layer, 0, 388, 0, 575, 0, 68, 0, 0
+    Bottom Layer, 0, 132, 0, 422, 0, 25, 0, 0
     Draft and Dimensions, 0, 0, 0, 16, 2, 0, 0, 158
     Board Dimension, 0, 0, 0, 4, 0, 0, 0, 0
     Fabrication, 0, 0, 0, 0, 0, 0, 0, 0
     Mechanical 13, 0, 0, 0, 0, 0, 0, 0, 1
-    Multi-Layer, 0, 62, 43, 0, 0, 0, 1, 0
+    Multi-Layer, 0, 62, 134, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
-    Top Overlay, 25, 0, 0, 718, 303, 31, 0, 0
+    Top Overlay, 25, 0, 0, 712, 300, 31, 0, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
-    Bottom Overlay, 10, 0, 0, 3320, 136, 13, 0, 0
+    Bottom Overlay, 10, 0, 0, 3333, 140, 13, 0, 0
     Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
     Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
     Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
@@ -39,8 +39,8 @@ Drill Pairs, Vias
 count : 0
 
 Layer, Sq.In., Sq.MM., Percent of layer
-    Top Layer, 3.071, 1981.092, 29%
-    Bottom Layer, 1.734, 1118.859, 16%
+    Top Layer, 4.504, 2905.845, 42%
+    Bottom Layer, 2.874, 1853.934, 27%
 count : 2
 
 Non-Plated Hole Size, Pads, Vias
